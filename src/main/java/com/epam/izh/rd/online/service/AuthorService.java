@@ -13,7 +13,6 @@ import com.epam.izh.rd.online.entity.Author;
  * 4) Добавить в SimpleAuthorService приватное поле "AuthorRepository authorRepository" - это репозиторий к котормоу
  * вы будете обращаться в методах
  * 5) Создать дефолтный конструтор (без параметров)
- * 6) Создать конструтор с параметром AuthorRepository authorRepository (который будет устанвливать в поле authorRepository значение)
  * 7) Написать в классе SimpleAuthorService реализацию для всех методов
  */
 public interface AuthorService {
